@@ -1,16 +1,7 @@
-Jerry Yu, 20764520  <br />
+Jerry Yu  <br />
 Java 11 <br />
 Windows 10 <br />
 Line Images were drawn personally <br />
-Delete/Trash Icon: https://www.pinclipart.com/pindetail/iibwbhi_trash-svg-png-icon-free-download-delete-button/ <br />
-Bezier Curve/Point Icon: https://thenounproject.com/term/bezier-curve/ <br />
-Edit Button Icon: https://www.svgrepo.com/svg/42233/pencil-edit-button <br />
-Selection Icon: https://thenounproject.com/term/mouse-pointer/ <br />
-
-
-Bonus Feature: Advanced Drawing
-Press select to start starting. Drag on the canvas and upon release the corresponding control point is set. Note that the first
-drag and release does nothing as we cannot have a curve with any only point.
 
 Click on a segment point and then toggle the control type by clicking on the point bottom. <br />
 By default segment points are smooth which are indicated by a black circle. Sharp segment points are red. <br />
